@@ -13,6 +13,8 @@
 #include<stdio.h>
 #include<math.h>
 
+//WAP to input number and find its square root.
+
 int main() {
     float n, sr;
     printf("write a number: ");

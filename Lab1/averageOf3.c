@@ -1,5 +1,6 @@
 #include<stdio.h>
-#include<math.h>
+
+//WAP to input 3 numbers and find its average.
 
 int main() {
     float a, b, c, ave;

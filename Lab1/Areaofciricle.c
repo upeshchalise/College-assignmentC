@@ -1,5 +1,5 @@
 #include<stdio.h>
-//#include<math.h>
+
 
 //WAP to find area of circle
 
