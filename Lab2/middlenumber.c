@@ -12,7 +12,7 @@ int main() {
     else if(b>a && a>c || b<a && a<c) {
         printf("the middle number is %d\n",a);
     }
-    else if(a>c && a>b || a<c && c<b) {
+    else if(a>c && c>b || a<c && c<b) {
         printf("the middle number is %d\n", c);
     }
 }
